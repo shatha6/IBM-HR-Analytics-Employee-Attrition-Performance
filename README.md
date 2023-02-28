@@ -10,6 +10,9 @@
 * We removed some columns that are not needed for our analysis as bellow:
   - StandardHours: as it is a constant value of 80
   - Over18: as it is a constant value of Y
+  - DailyRate:
+  - HourlyRate:
+  - MonthlyRate:
 
 ## Research Questions:
 * What is the attrition rate for the company, and what are the factors that contribute to it?

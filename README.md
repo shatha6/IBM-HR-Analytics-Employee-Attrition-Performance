@@ -1,6 +1,6 @@
 # IBM-HR-Analytics-Employee-Attrition-Performance
 ## Data:
-* [Dataset URL]([https://www.example.com](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset))
+* [Dataset URL]([https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset])
 * IBM has gathered information on employee such as: satisfaction, income, age; to help in resolving employees attrition problem
 * The dataset includes the data of 1470 employees.
 * There are 1470 raws and 35 column.

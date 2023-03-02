@@ -8,14 +8,12 @@
 ## Cleaning:
 * This dataset is clean. There is no missing values and all employee numbers are unique.
 * We removed some columns that are not needed for our analysis as bellow:
-  - StandardHours: as it is a constant value of 80
-  - Over18: as it is a constant value of Y
   - DailyRate: The use of this column is not clear.
   - HourlyRate: The use of this column is not clear.
   - MonthlyRate: The use of this column is not clear.
   - StandardHours: It is always a constant value of 8
-  - Over18: It is always a constant value of Yes
-  - EmployeeCount: It is always a constant value of 1
+  - Over18: It is always a constant value of "Y".
+  - EmployeeCount: It is always a constant value of 1.
 
 ## Research Questions:
 * What is the attrition rate for the company, and what are the factors that contribute to it?

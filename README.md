@@ -10,9 +10,12 @@
 * We removed some columns that are not needed for our analysis as bellow:
   - StandardHours: as it is a constant value of 80
   - Over18: as it is a constant value of Y
-  - DailyRate:
-  - HourlyRate:
-  - MonthlyRate:
+  - DailyRate: The use of this column is not clear.
+  - HourlyRate: The use of this column is not clear.
+  - MonthlyRate: The use of this column is not clear.
+  - StandardHours: It is always a constant value of 8
+  - Over18: It is always a constant value of Yes
+  - EmployeeCount: It is always a constant value of 1
 
 ## Research Questions:
 * What is the attrition rate for the company, and what are the factors that contribute to it?
@@ -21,5 +24,14 @@
 * Are there any gender differences in job satisfaction, and does this impact attrition rates?
 * What factors are associated with employee performance ratings, and is there a relationship between performance ratings and attrition?
 
-## Visualization:
+## Conclusion:
+Our analysis has revealed a range of factors that impact employee attrition, with some factors outside of a company's control, while others can be influenced by companies. Factors that can be improved through company action include the below 
+- Monthly income
+- Stock option level
+- Job involvement
+- job satisfaction
+- Environment satisfaction
+- Distance from home
+
+
 
